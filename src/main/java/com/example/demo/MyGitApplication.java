@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyGitApplication2 {
+public class MyGitApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyGitApplication2.class, args);
+		SpringApplication.run(MyGitApplication.class, args);
 	}
 
 }
